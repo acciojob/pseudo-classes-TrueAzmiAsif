@@ -7,7 +7,7 @@ p:first-child{
 	color:white;
 }
 p:last-child{
-	color:red;
+	color:rgb(255,0,0);
 }
 li:first-child{
 	width:50%;
